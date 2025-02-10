@@ -28,3 +28,13 @@ Sales & Profit: Revenue and earnings data.
 Discount & Quantity: Discount applied and number of units sold.
 Region & Customer Segment: Geographic and customer-type segmentation.
 Shipping Mode: Different methods used for order delivery.
+
+# Data Visualization
+The script generates the following insights:
+
+Histogram and Boxplot of Sales: Helps understand sales distribution and detect outliers.
+Correlation Heatmap: Identifies relationships between numerical features.
+Regional Sales and Profit Comparison: Evaluates profitability by region.
+Top 10 Sub-Categories by Sales: Highlights high-performing product sub-categories.
+Impact of Discounts on Profit: Analyzes how discounts affect profitability.
+
