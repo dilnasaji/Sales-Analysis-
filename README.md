@@ -1,4 +1,4 @@
-# Sales-Analysis-
+# Sales-Analysis
 
 # Overview
 This project analyzes sales data from the Sample Superstore dataset using R. It includes data cleaning, visualization, and statistical analysis to derive insights into sales trends, profit distribution, and the impact of discounts. The goal is to identify key sales patterns and provide actionable business insights.
